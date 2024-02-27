@@ -1,9 +1,4 @@
-index.faiss
-index.pkl
-/pdfs/
-venv
-env
-!/pdfs/.gitinclude
-*.pdf
-.env
-.idea
+### install Ollama
+```
+curl -fsSL https://ollama.com/install.sh | sh
+```
