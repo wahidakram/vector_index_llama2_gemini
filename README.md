@@ -16,6 +16,6 @@ ollama pull llama2
 7. Run the script: `python main.py`
 
 # For Gemini Pro
-create api from [Link Text](https://aistudio.google.com).
+create api from [Google AI Studio](https://aistudio.google.com).
 Set the env variable GOOGLE_API_KEY
 Run the script `python gemini main.py`
