@@ -1,0 +1,9 @@
+index.faiss
+index.pkl
+/pdfs/
+venv
+env
+!/pdfs/.gitinclude
+*.pdf
+.env
+.idea

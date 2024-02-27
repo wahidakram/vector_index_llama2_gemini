@@ -1,0 +1,6 @@
+langchain
+python-dotenv
+gpt4all
+faiss-cpu
+google-generativeai
+langchain-google-genai
